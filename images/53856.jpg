@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fa-IR" dir="rtl">
+        
+<head>
+    
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        
+
+                <link rel="icon" type="image/x-icon" href="/images/logo/favicon.ico" />
+        
+            
+    <meta charset="utf-8" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>404 صفحه پیدا نشد</title>
+    <link rel="stylesheet" href="/media/gantry5/engines/nucleus/css-compiled/nucleus.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/g5_helium/custom/css-compiled/helium__error.css" type="text/css" />
+    <link rel="stylesheet" href="/media/gantry5/engines/nucleus/css-compiled/bootstrap5-rtl.css" type="text/css" />
+    <link rel="stylesheet" href="/media/system/css/joomla-fontawesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="/media/plg_system_debug/css/debug.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/g5_helium/custom/css-compiled/helium-joomla__error.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/g5_helium/custom/css-compiled/custom__error.css" type="text/css" />
+    <script type="text/javascript" src="/templates/g5_helium/js/custom.js"></script>
+                
+</head>
+
+    <body class="gantry g-helium-style rpp-default site view- no-layout no-task dir-rtl outline-_error g-error g-style-preset1">
+        
+                    
+
+        
+        <div id="g-page-surround">
+                                    
+
+                
+                                
+                
+    
+                <section id="g-container-main" class="g-wrapper">
+                <div class="g-container">                    <div class="g-grid">                        
+
+        <div class="g-block size-100 center">
+             <main id="g-mainbar">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div class="g-content">
+                                                            <h1>404 صفحه پیدا نشد</h1>
+    
+    
+            
+    </div>
+        </div>
+            </div>
+                            <div class="g-grid">                        
+
+        <div class="g-block size-100 rpp-content-error-page">
+             <div class="g-content">
+                                    <div class="platform-content"><div class="content-error-page moduletable ">
+        
+<div id="mod-custom284" class="mod-custom custom">
+    <div class="error-page-content"><img src="/images/rppgallery/warning-img.png" alt="ERROR" class="error-pic" /> <a href="https://www.iranceramco.com/" class="back-link">بازگشت به صفحه اصلی</a><a href="https://www.iranceramco.com/"><img src="/images/logo/logo.png" alt="" /></a></div></div>
+</div></div>
+            
+        </div>
+        </div>
+            </div>
+            
+    </main>
+        </div>
+            </div>
+    </div>
+        
+    </section>
+    
+    
+                        
+
+        </div>
+                    
+
+                        <script type="text/javascript" src="/templates/g5_helium/custom/js/main.js"></script>
+    
+
+    
+
+        
+    </body>
+</html>
